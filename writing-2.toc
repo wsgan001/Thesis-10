@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}PROBLEM STATEMENT}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {2}DIFFERENCES WITH PREVIOUS WORKS}{4}
+\contentsline {subsection}{\numberline {2.1}NOT TAKING INPUT OF 'k' FROM USER}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{EXAMPLE 1.}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {subsection}{\numberline {2.2}MIXTURE OF VARIOUS CORES IN RESULT}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{EXAMPLE 2.}{4}
+\contentsline {section}{\numberline {3}Basic Solution Approach}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
